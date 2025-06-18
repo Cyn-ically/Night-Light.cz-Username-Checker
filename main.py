@@ -19,5 +19,5 @@ def main():
                 print(f"Username : {username} - Available !")
         except Exception as e:
             print(f"Error occured: {e}")
-
+    input("Done! Press Enter to leave")
 main()
