@@ -9,3 +9,11 @@ Makes you able to check if the username is already existing or not on the social
   - Put each usernames
 
 - Open `main.py`.
+
+# Issues ?
+
+Open an issue.
+
+# Stars
+
+Would be kind of you to start this repository, I spent hours on this (joke)
