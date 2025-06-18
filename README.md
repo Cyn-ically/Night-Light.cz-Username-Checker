@@ -6,6 +6,6 @@ Makes you able to check if the username is already existing or not on the social
 # How to use
 
 - Open the file named `usernames.txt` inside the `usernames` folder
-- - Put each usernames
+  - Put each usernames
 
 - Open `main.py`.
